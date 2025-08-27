@@ -1,0 +1,5 @@
+npx kill-port 5173
+Foi utilizado: Eslint
+Prettier
+Tailwind css
+input-mask-next
